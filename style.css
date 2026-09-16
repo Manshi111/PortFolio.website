@@ -393,3 +393,6 @@ footer{
   .hero-text-block h1{font-size: 2.6rem}
   .hero-text-block h2{font-size: 1.35rem}
 }
+.featured-project {
+  margin-bottom: 30px;
+}
